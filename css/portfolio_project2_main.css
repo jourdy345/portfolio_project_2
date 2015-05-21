@@ -1,0 +1,46 @@
+body {
+	background-color: #f0f0f0;
+}
+
+nav {
+	position: relative;
+}
+
+nav a {
+	font-size: 25px;
+	color: #3b3e41;
+	padding: 30px;
+	text-decoration: none;
+}
+
+nav a:hover{
+	background-color: #fafafa;
+	text-decoration: none;
+}
+
+nav span.divider {
+	background-color: #999;
+  	width: 1px;
+  	height: 20px;
+}
+
+#About {
+	margin: auto;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 80px;
+}
+
+header {
+	padding: 50px;
+}
+
+#content {
+	margin: 0 auto;
+	padding: 10px;
+}
+
+#writing {
+	text-align: center;
+	line-height: 30pt;
+}
